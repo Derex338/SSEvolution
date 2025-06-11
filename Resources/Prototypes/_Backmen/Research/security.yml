@@ -1,0 +1,13 @@
+- type: technology
+  id: Security
+  name: research-technology-security
+  icon:
+    sprite: Objects/Weapons/Melee/stunbaton.rsi
+    state: stunbaton_off
+  discipline: Security
+  tier: 1
+  cost: 800
+  recipeUnlocks:
+  - Flash
+  position: 1,-3
+
